@@ -15,7 +15,7 @@ Atualmente estudo **JavaScript**, **Next.js**, **HTML**, **CSS** e **Node.js**, 
 
 ## 📚 O que estou aprendendo
 
-- ⚡ JavaScript (ES6+)  
+- ⚡ JavaScript
 - ⚡ Next.js  
 - ⚡ HTML & CSS  
 - ⚡ Node.js  
